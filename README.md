@@ -1,12 +1,12 @@
 
 ## :star: Hello, World! Me chamo Lucas, café? :coffee: 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/lukasstranges">
   <img height="180em"width="48%"src="https://githubreadmestats.vercel.app/apiusername=lukasstranges&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasstranges&layout=compact&langs_count=7&theme=radical"/>
   <img height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasstranges&theme=radical"/>
-</div>
+</div> -->
  
    
   
@@ -45,5 +45,5 @@
 <a href="https://www.linkedin.com/in/lucas-santos-desenv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
-  ![Snake animation](https://github.com/lukasstranges/lukasstranges/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/lukasstranges/lukasstranges/blob/output/github-contribution-grid-snake.svg) -->
 </div>
