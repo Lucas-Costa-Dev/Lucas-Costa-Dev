@@ -3,9 +3,9 @@
 
 <div align="center">
   <a href="https://github.com/lukasstranges">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?          username=lukasstranges&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+	<img height="180em"width="48%"src="https://githubreadmestats.vercel.app/apiusername=lukasstranges&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasstranges&layout=compact&langs_count=7&theme=radical"/>
-   <img   height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasstranges&theme=radical"/>
+  <img height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasstranges&theme=radical"/>
 </div>
  
    
