@@ -13,7 +13,7 @@
 ## :octocat: Sobre mim :octocat: 
 <!-- - 🏭 Sou técnico em Automação Industrial. Atualmente trabalho na área pela TSA Engenharia, automatizando processos industriais, principalmente para empresas mineradoras, como a VALE S/A.  -->
 
-- :mortar_board: Estou no processo de aprendizagem para me tornar desenvolvedor FullStack, atualmente meu foco no Frontend é JavaScript, HTML, CSS, Vuejs e no Backend com Java.
+- :mortar_board: Estou no processo de aprendizagem para me tornar desenvolvedor FullStack, atualmente meu foco no Frontend é JavaScript, HTML, CSS, Angular e no Backend com Java.
 
 
 
