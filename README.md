@@ -33,8 +33,6 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" 
   src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> 
-  <img align="center" alt="joao-react" height="30" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Angular/Angular-original.svg" />
 
    
  
