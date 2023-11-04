@@ -30,6 +30,8 @@
   src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
   <img align="center" alt="lucas-git" width="30" height="30" 
   src="https://img.icons8.com/color/30/spring-logo.png" alt="spring-logo"/>
+  <img align="center" alt="lucas-git" width="30" height="30" 
+    src="https://img.icons8.com/color/30/angularjs.png" alt="angularjs"/>
 
    
  
