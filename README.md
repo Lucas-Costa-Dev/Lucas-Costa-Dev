@@ -7,11 +7,6 @@
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Costa-Dev&layout=compact&langs_count=7&theme=radical"/>
   <img height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Costa-Dev&theme=radical"/>
 </div> -->
- 
-   
-  
-## :octocat: Sobre mim :octocat: 
-<!-- - 🏭 Sou técnico em Automação Industrial. Atualmente trabalho na área pela TSA Engenharia, automatizando processos industriais, principalmente para empresas mineradoras, como a VALE S/A.  -->
 
 - :mortar_board: Estou no processo de aprendizagem para me tornar desenvolvedor FullStack, atualmente meu foco no Frontend é JavaScript, TypeScript, HTML, CSS, Angular e no Backend com Java.
 
@@ -32,7 +27,8 @@
    <img align="center" alt="lucas-git" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" 
-  src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> 
+  src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>"> 
 
    
  
