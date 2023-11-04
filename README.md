@@ -28,7 +28,7 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" 
   src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
-  <img width="30" height="40" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+  <img width="30" height="35" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
 
    
  
