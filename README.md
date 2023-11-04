@@ -28,7 +28,8 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" 
   src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
-  <img width="30" height="30" src="https://img.icons8.com/color/30/spring-logo.png" alt="spring-logo"/>
+  <img align="center" alt="lucas-git" width="30" height="30" 
+  src="https://img.icons8.com/color/30/spring-logo.png" alt="spring-logo"/>
 
    
  
